@@ -1,0 +1,8 @@
+interface:
+  display_name: "AI_study 内容发布"
+  short_description: "将资料安全发布到固定的 AI_study Git 仓库"
+  brand_color: "#4EE0B7"
+  default_prompt: "Use $publish-content-hub to publish these materials to my AI_study repository."
+
+policy:
+  allow_implicit_invocation: true
